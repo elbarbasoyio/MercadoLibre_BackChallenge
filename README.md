@@ -27,8 +27,8 @@ module.exports = {
 
 ### Uso
 Para probar los requests a los distintos end-points se recomiendan estas aplicaciones:
-* Insomnia: https://insomnia.rest/
-* Postman: https://www.postman.com/
+- [Postman](https://www.postman.com/)
+- [Thunder Client](https://www.thunderclient.io/)
 
 La URL por defecto es localhost:8080. En caso de ingresar una ruta no válida el sistema responde con un estado 404 (URL inválida)
 
