@@ -1,0 +1,17 @@
+# Compiled binary
+build
+
+# Dependency directories
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# Mac OSX folders
+.DS_Store
