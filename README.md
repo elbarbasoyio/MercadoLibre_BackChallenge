@@ -24,7 +24,6 @@ module.exports = {
   port: 8080
 }
 ```
-Hay una DEMO disponible en: https://challenge-meli-aamaya.appspot.com/
 
 ### Uso
 Para probar los requests a los distintos end-points se recomiendan estas aplicaciones:
