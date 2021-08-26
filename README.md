@@ -12,7 +12,7 @@ API REST de detección de objetos mediante triangulación y reconstrucción de m
 ### Instalación
 **Desde la terminal:**
 1. Descargar el proyecto:
-`$ git clone https://github.com/aamaya85/challenge-meli.git`
+`$ git clone https://github.com/elbarbasoyio/MercadoLibre_BackChallenge`
 2. Instalar las dependencias:
 `$ npm install`
 3. Levantar el servidor:
